@@ -1,2 +1,2 @@
 # com.app.triangle
-Triangles control work. 
+Triangles control work
